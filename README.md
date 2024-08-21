@@ -57,8 +57,8 @@ To get a local copy up and running, follow these simple steps.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/dev-OmarKaialy/movizone.git
-cd movizone
+git clone https://github.com/dev-OmarKaialy/foody.git
+cd foody
 ```
 
 ## Contributing
