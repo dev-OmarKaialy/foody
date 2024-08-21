@@ -30,7 +30,7 @@ This course will guide you through the process of developing **MoviZone**, a com
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Splash.jppng" alt="Splash Screen" width="45%" />
+  <img src="screenshots/Splash.png" alt="Splash Screen" width="45%" />
   <img src="screenshots/Sign Up Photo.png" alt="SignUp Screen" width="45%" />
 </p>
 
