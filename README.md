@@ -1,3 +1,3 @@
-# foody
 
-A new Flutter project.
+### Pray For Palestine
+![Pray For Palestine](screenshots/palestine.jpg)
